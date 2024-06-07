@@ -1,0 +1,26 @@
+.box_coklat{
+    background-color: #f0d384;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0 10px 10px 0;
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+.box_biru{
+  background-color: #84dcff;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 0 10px 10px 0;
+  box-sizing: border-box;
+  text-align: center;
+}  
+
+.box_hijau {
+  background-color: #8ae613;
+  padding: 20px;
+  border-radius: 5px;
+  margin: 0 10px 10px 0;
+  box-sizing: border-box;
+  text-align: center;
+}

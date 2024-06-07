@@ -1,0 +1,15 @@
+
+.round-image {
+    border-radius: 50%;
+}
+
+.small-image {
+    width: 100px; 
+    height: 100px; 
+}
+
+h1 {
+    font-family: "Lucida Handwriting", cursive;
+    font-size: auto;
+    text-align: center;
+}
